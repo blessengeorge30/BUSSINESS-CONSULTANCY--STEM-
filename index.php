@@ -57,7 +57,7 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12">
                                             <div class="slider_content">
-                                                <h6 class="animate_left"> Solutions for your business </h6>
+                                                <!-- <h6 class="animate_left"> Solutions for your business </h6> -->
                                                 <h1 class="animate_up"> Performance and Productivity </h1>
                                                 <p class="animate_right pd_bottom_40"> Who are so beguiled and demoralized the charms Long established fact <br>that a reader will be distracted </p>
                                                 <ul class="animate_down">
